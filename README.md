@@ -1,8 +1,16 @@
+Problem Statement 
+
 In the highly competitive hospitality industry, understanding guest behavior and booking patterns is essential to improving occupancy rates, reducing cancellations, and enhancing overall customer satisfaction. This project aims to analyze hotel booking data from City and Resort hotels across the years 2015 to 2017, focusing on key performance indicators such as total bookings, cancellations, guest types, room status accuracy, and monthly trends.
 
 Data Source : Iscale (https://www.theiscale.com/)
 
 Tool for Analysis : Microsoft Excel 
+
+Steps :
+
+1. Understanding the behaviour of data and cleaning the raw data through Power Query
+2. Create pivots and extract the insights of the data information
+3. Data visualization according to the required problem statement.
 
 Final conclusion as per available data
 
